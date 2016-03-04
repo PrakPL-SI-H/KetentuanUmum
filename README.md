@@ -12,9 +12,11 @@
 
 * Irwin Deriyan Ferdiansyah
   * Telefoon : +6285336648080
-  * E-mail : irwinderiyan@ymail.com
-  * Line : irwindf
+  * E-mail   : irwinderiyan@ymail.com
+  * Line     : irwindf
+
+
 * Ibrahim Yunus Muhammad Fiqhan
   * Telefoon : +6285785556608
-  * E-mail : ifiqhan@gmail.com
-  * Line : fiqhangrees
+  * E-mail   : ifiqhan@gmail.com
+  * Line     : fiqhangrees
